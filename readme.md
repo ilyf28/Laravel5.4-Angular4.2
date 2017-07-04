@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Laravel 5.4 with Angular 4.2 - Install
+
+- git clone && cd laravel5.4-angular4.2
+- composer install
+- cp .env.example .env
+- php artisan key:generate
+- npm install
+- gulp
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
